@@ -5,5 +5,5 @@ SwfitNote
 ## MVVM in Swfit
  * Model: SomeClass have property
  * View: just show UI
- * ViewModel: use model supply some data someView used （use protocol limit what the ViewModel must supply)
+ * ViewModel: model for the view （use protocol limit what the ViewModel must supply)
  * ViewController: choose what model to ViewModel and View use what ViewModel
