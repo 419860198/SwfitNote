@@ -7,5 +7,7 @@ SwfitNote
  * View: just show UI
  * ViewModel: model for the view （use protocol limit what the ViewModel must supply)
  * ViewController: choose what model to ViewModel and View use what ViewModel
+
+
 ## Git
  * http://git-scm.com/doc
