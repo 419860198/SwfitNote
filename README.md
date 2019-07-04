@@ -1,7 +1,7 @@
 SwfitNote
 ======
 一些关于swfit的学习资料
-
+![avater][https://github.com/419860198/PrivatePod/blob/a/%E6%97%A0%E6%A0%87%E9%A2%98.png]
 ## MVVM in Swfit
  * View: just show UI
  * ViewModel: model for the view （use protocol limit what the ViewModel must supply)
